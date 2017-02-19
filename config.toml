@@ -1,9 +1,9 @@
-baseurl = "https://example.org/"
-title = "Creative portfolio"
+baseurl = "https://yxyxu.github.io/"
+title = "Explore Data Science with Yuan"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "yxyxu-github-io"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
